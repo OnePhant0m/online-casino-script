@@ -1,6 +1,6 @@
 <h1>🎰 Your Gaming Business with Our <strong>Online Casino Script</strong></h1>
 <p>If you’ve ever dreamt of owning a thriving online casino business, our Online Casino Script is your ultimate solution. Designed to meet the needs of modern entrepreneurs, this feature-packed platform enables you to create a competitive, fully functional, and secure online casino in no time.</p>
-<img src="https://raw.githubusercontent.com/onlineCasinoScript/online-casino-script/refs/heads/main/Online-Casino-Script.png" width="500" alt="Online Casino Script">
+<img src="https://github.com/onlineCasinoScript/online-casino-script/blob/main/Online-Casino-Script.png" max-width="100%" alt="Online Casino Script">
 <h2>Why Choose Our <strong>Online Casino Script</strong>? 💸</h2>
 <p>Our script stands out with its exceptional features and benefits, designed to provide a seamless experience for both operators and players. Here’s what makes it the perfect choice:</p>
 
