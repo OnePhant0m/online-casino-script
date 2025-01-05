@@ -66,6 +66,6 @@
 <p><strong>Call-to-Action:</strong></p>
 <ul>
      <li>Visit our Demo: <a href="https://kingz.casino">Live Preview</a></li>
-    <li>Contact us: <a href="mailto:info@kingz.casino">info@kingz.casino</a>  <a href="https://t.me/Devtoolsx">Telegram</a> <a href="https://discord.com/users/698228924634628197">Discord</a></li>
+    <li>Contact us: <a href="mailto:info@kingz.casino">info@kingz.casino</a>  <a href="https://t.me/KCtgadmin">Telegram</a> <a href="https://discord.com/users/698228924634628197">Discord</a></li>
 </ul>
 <p>Empower your dream of running a successful online casino with a platform that’s built for success. The future of online gaming starts with you!</p>
