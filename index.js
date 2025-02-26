@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 
 // Route principale
 app.get('/', (req, res) => {
-  res.send('Bienvenue sur mon casino en ligne ! 🚀');
+  res.send('Bienvenue sur le meilleur casino en ligne ! 🎰');
 });
 
 // Démarrer le serveur
